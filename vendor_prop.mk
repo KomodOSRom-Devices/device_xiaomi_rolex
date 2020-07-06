@@ -181,3 +181,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0 \
     wifi.supplicant_scan_interval=500
+
+# Device Maintainer
+PRODUCT_PROPERTY_OVERRIDES += \
+    org.komodo.maintainer=MhmmdFadlyas!

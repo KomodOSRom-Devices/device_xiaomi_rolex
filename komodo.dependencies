@@ -1,0 +1,13 @@
+[
+ {
+   "remote": "github",
+   "repository": "Komodo-OS-Devices/vendor_xiaomi",
+   "target_path": "vendor/xiaomi"
+ },
+ {
+   "remote": "github",
+   "repository": "fadlyas07/kernel_xiaomi_rova_sd425",
+   "target_path": "kernel/xiaomi/msm8917",
+   "branch": "A10"
+ }
+]
