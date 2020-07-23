@@ -1,0 +1,4 @@
+# battery health
+allow system_app system_data_file:dir { write };
+allow system_app sysfs_battery_supply:dir { search };
+allow system_app sysfs_battery_supply:file { open read getattr };
