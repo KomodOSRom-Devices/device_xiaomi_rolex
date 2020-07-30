@@ -6,8 +6,8 @@
  },
  {
    "remote": "github",
-   "repository": "fadlyas07/kernel_xiaomi_rova_sd425",
+   "repository": "Komodo-OS-Devices/kernel_xiaomi_rolex",
    "target_path": "kernel/xiaomi/msm8917",
-   "branch": "A10"
+   "branch": "ten"
  }
 ]
