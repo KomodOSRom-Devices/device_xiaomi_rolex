@@ -6,12 +6,6 @@
  },
  {
    "remote": "github",
-   "repository": "GreenForce-project-repository/aosp_clang",
-   "target_path": "prebuilts/clang/host/linux-x86/clang-aosp",
-   "revision": "r365631c2"
- },
- {
-   "remote": "github",
    "repository": "Komodo-OS-Devices/kernel_xiaomi_rolex",
    "target_path": "kernel/xiaomi/msm8917",
    "branch": "ten"
