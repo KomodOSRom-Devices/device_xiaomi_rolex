@@ -6,8 +6,8 @@
  },
  {
    "remote": "github",
-   "repository": "Komodo-OS-Devices/kernel_xiaomi_rolex",
+   "repository": "GreenForce-project-repositories/kernel_xiaomi_rova_sd425",
    "target_path": "kernel/xiaomi/msm8917",
-   "branch": "ten"
+   "branch": "lineage-eas"
  }
 ]
