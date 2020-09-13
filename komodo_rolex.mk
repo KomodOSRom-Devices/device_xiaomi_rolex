@@ -24,7 +24,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_m.mk)
 $(call inherit-product, vendor/komodo/config/common_full_phone.mk)
 
 # Official Tag
-KOMODO_OFFICIAL := true
+KOMODO_VARIANT = RELEASE
 
 # Gapps type
 CURRENT_BUILD_TYPE := nogapps
